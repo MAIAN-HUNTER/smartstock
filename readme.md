@@ -38,6 +38,13 @@ formulários
 dashboard
 renderização dinâmica
 comunicação com API
+
+## Preview do sistema
+
+## Tela de login
+![Login](./screenshots/login.png)
+
+
 ### Backend
 
 Construído com:
@@ -84,6 +91,8 @@ persistência de sessão
 proteção de rotas privadas
 ### Gerenciamento de produtos
 
+![Produtos](./screenshots/produtos.png)
+
 Cada usuário possui acesso apenas aos próprios produtos cadastrados.
 
 Funcionalidades:
@@ -94,6 +103,8 @@ deletar produtos
 listagem dinâmica
 atualização em tempo real
 ### Dashboard inteligente
+
+![Dashboard](./screenshots/dashboard-de-metricas.png)
 
 Foi desenvolvido um painel visual contendo:
 
