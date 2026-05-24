@@ -42,7 +42,7 @@ comunicação com API
 ## Preview do sistema
 
 ## Tela de login
-![Login](./screenshots/login.png)
+![Login](./screenshots/Login.png)
 
 
 ### Backend
@@ -91,7 +91,7 @@ persistência de sessão
 proteção de rotas privadas
 ### Gerenciamento de produtos
 
-![Produtos](./screenshots/produtos.png)
+![Produtos](./screenshots/Produtos.png)
 
 Cada usuário possui acesso apenas aos próprios produtos cadastrados.
 
@@ -104,7 +104,7 @@ listagem dinâmica
 atualização em tempo real
 ### Dashboard inteligente
 
-![Dashboard](./screenshots/dashboard-de-metricas.png)
+![Dashboard](./screenshots/Dashboard-de-metricas.png)
 
 Foi desenvolvido um painel visual contendo:
 
